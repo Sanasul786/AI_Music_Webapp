@@ -13,3 +13,15 @@ canvas
     border: 5px solid white;
     border-radius: 20px;
 }
+.heading
+{
+    font-size: 25px;
+    font-family: cursive;
+    color: blueviolet;
+    font-style: italic;
+    font-weight: bolder;
+}
+h3
+{
+    background-image: linear-gradient(to right, red,pink,,rgb(221, 13, 152),blueviolet,violet);
+}
